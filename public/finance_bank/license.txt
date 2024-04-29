@@ -1,0 +1,11 @@
+Model Information:
+* title:	Finance bank
+* source:	https://sketchfab.com/3d-models/finance-bank-f0e5898e743c460ba01fb1e8b58b72d0
+* author:	Grindi (https://sketchfab.com/ranok777)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Finance bank" (https://sketchfab.com/3d-models/finance-bank-f0e5898e743c460ba01fb1e8b58b72d0) by Grindi (https://sketchfab.com/ranok777) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
