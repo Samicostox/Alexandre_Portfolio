@@ -43,19 +43,19 @@ export const navLinks = [
 const services = [
   {
     title: "Languages : French-English-Spanish",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377336/4521476_nl8qmy.webp",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/langue_aogfpc.png",
   },
   {
     title: "Highly competent in Microsoft Office",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377337/6876345_ulmq11.webp",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/bureau_wkwnga.png",
   },
   {
     title: "Finance expertise",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377230/database-10344571-8355281_hiv20d.webp",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/entrepreneur_wi2twd.png",
   },
   {
     title: "Entrepreneur",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377150/6622088_fu0nlp.webp",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/financement-participatif_gc9khf.png",
   },
 ];
 
@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Intern as an auditor",
     company_name: "ADMR Union Nationale",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714378901/barclays_logo_icon_168534_kqgi9n.png",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/unnamed_tvpmfm.png",
     iconBg: "#E6DEDD",
     date: "Feb 2024 - August 2024",
     points: [
@@ -145,7 +145,7 @@ const experiences = [
   {
     title: "Intern as a salesperson",
     company_name: "Filovent (online boat rental agency)",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714380763/Logo_Sam_7_vka0ed.png",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/unnamed_1_zvaurw.png",
     iconBg: "#E6DEDD",
     date: "July - December 2022",
     points: [
