@@ -27,7 +27,7 @@ const ServiceCard = ({ index, title, icon }) => (
           className='w-16 h-16 object-contain'
         />
 
-        <h3 className='text-white text-[20px] font-bold text-center'>
+        <h3 className='text-white text-[18px] font-bold text-center '>
           {title}
         </h3>
       </div>
@@ -47,11 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. For the Back-end I use Django & Python. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!  
+        
+I have specialised in finance, particularly in corporate finance, through my coursework and various work experiences. I have also developed my sales skills, which are valuable in many areas, especially in audit with clients. Subsequently, I returned to my core interest — corporate finance — as an auditor.
+ 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

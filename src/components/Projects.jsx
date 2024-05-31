@@ -6,29 +6,24 @@ export const HoverImageLinks = () => {
   return (
     <section className="bg-neutral-950 p-4 md:p-0 md:mt-8">
       <div className=" max-w-5xl">
-        <Link
-          heading="Technical Documents Generation "
-          subheading="NLP & LLM fine-tuning to generate technical documents from a description."
-          imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1714398118/723shots_so_dmpl1r.png"
-          href="/project"
-        />
+        
         <Link
           heading="Innovation Studios"
-          subheading="Developed the Animated website of a consulting company offering technical services."
+          subheading="Co-Founded a consulting company offering technical services."
           imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1714381657/57shots_so_v6zzeu.png"
           href="https://innovationstudios.uk/"
         />
         <Link
-          heading="SafeQueen | Web App"
-          subheading="Our work speaks for itself"
+          heading="Il Etait Une Asso"
+          subheading="Editorial project on EMLyon's associative life "
           imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1708684564/SafeQueen_Paralax_u2x4xa.png"
-          href="#"
+          href="https://www.instagram.com/il_etait_une_asso/?igsh=MzRlODBiNWFlZA%3D%3D"
         />
         <Link
-          heading="Nutrion Vault | Mobile App"
-          subheading="Hybrid food recommender system + Speech to text to recommendation feature"
+          heading="Un Arret Sur Image"
+          subheading="Our Work speaks for itself!"
           imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1714398338/nutrivault_kbmw7d.png"
-          href="#"
+          href="https://www.instagram.com/1arretsurimage/?igsh=MzRlODBiNWFlZA%3D%3D"
         />
         <Link
           heading="OneCvaDay | Web App"

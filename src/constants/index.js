@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Front-end Developper",
+    title: "Languages : French-English-Spanish",
     icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377336/4521476_nl8qmy.webp",
   },
   {
-    title: "Back-end Developper",
+    title: "Highly competent in Microsoft Office",
     icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377337/6876345_ulmq11.webp",
   },
   {
-    title: "Dev Ops",
+    title: "Finance expertise",
     icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377230/database-10344571-8355281_hiv20d.webp",
   },
   {
-    title: "ML & AI",
+    title: "Entrepreneur",
     icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714377150/6622088_fu0nlp.webp",
   },
 ];
@@ -116,58 +116,46 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full Stack Developer",
-    company_name: "Barclays",
+    title: "Intern as an auditor",
+    company_name: "ADMR Union Nationale",
     icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714378901/barclays_logo_icon_168534_kqgi9n.png",
     iconBg: "#E6DEDD",
-    date: "June 2024 - August 2024",
+    date: "Feb 2024 - August 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led audits across 20 federations in an association of 94,000 employees and 85,000 volunteers, fortifying process efficiency and identifying critical financial discrepancies.",
+      "Developed strategic financial and operational recommendations following a detailed 360° risk analysis, significantly strengthening governance and proactive risk management in a 95-entity association.",
+      "Improved data analysis tools and workflows, resulting in more effective audit insights and analytical capabilities.",
+      "Conducted thorough compliance verification of federation documentation, ensuring adherence to standards and reducing organisational risk.",
     ],
   },
   {
-    title: "Data Scientist & Full Stack Developer",
-    company_name: "4D",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714378993/smallimage_s9depo.png",
-    iconBg: "#383E56",
-    date: "September 2023 - June 2024",
-    points: [
-      "Developing a strategy for the implementation of a new coding assistant within 4D’s innovative platform, QODLY.",
-      "Responsible for training the coding assistant using advanced machine learning techniques to enable it to code in ORDA proficiently.",
-      "Leading the development of the AI component of the coding assistant, ensuring its seamless integration and functionality within the QODLY platform.",
-      "Collaborating with cross-functional teams to align the coding assistant’s capabilities with organisational goals.",
-    ],
-  },
-  {
-    title: "Co-Founder | CEO & CTO",
+    title: "Co-Founder | Head of Business Development",
     company_name: "Innovation Studios",
     icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714380763/Logo_Sam_7_vka0ed.png",
     iconBg: "#E6DEDD",
-    date: "September 2022 - Present",
+    date: "September 2023 - Present",
     points: [
-      "CEO & CTO of a Consulting Group operating in the University of Birmingham & Warwick, offering Software Development and Data Science services to companies.",
-      "Coordinated a team of 20 across various departments: development, recruiting, sales & marketing.",
-      "Generated £40,000 in revenue in 1 year by negotiating deals for software engineering and data science projects and led the completion of 15 projects by managing 20 student developers.",
-      "Applied Data Engineering expertise to manage, clean, sort, and transform data, ensuring its readiness and optimisation for client-specific projects, and facilitated seamless migration to client servers.",
-      "Tiktok (~300k views, 300+ followers, 7k+ likes)"
+      "Head of Business Development of a Consulting Group operating in the University of Birmingham & Warwick, offering Software Development and Data Science services to companies.",
+      "Coordinated a team of 8 across the sales & marketing departments",
+      "Generated £40,000 in revenue in 1 year by negotiating 20 deals for software engineering and data science projects.",
+      "Tiktok (~500k views, 500+ followers, 11k+ likes)",
+      "Successfully attracted over 1000+ users on our platform that registers CVs from professionals at top companies"
     ],
   },
   {
-    title: "Developer Intern",
-    company_name: "4D",
-    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714378993/smallimage_s9depo.png",
-    iconBg: "#383E56",
-    date: " June 2021 - July 2021",
+    title: "Intern as a salesperson",
+    company_name: "Filovent (online boat rental agency)",
+    icon: "https://res.cloudinary.com/dl2adjye7/image/upload/v1714380763/Logo_Sam_7_vka0ed.png",
+    iconBg: "#E6DEDD",
+    date: "July - December 2022",
     points: [
-      "Conducted a comparative study on low-code platform (SaaS) to build web applications. The study aimed to provide an insight into the capabilities of each low code platform as well as an overview of the learning curve.",
-      "Built a full report for each low code platform (PowerPoint and Word).",
-      "Made a presentation to the managers and explained the pros and cons of each platform. ",
-      "Deepened my understanding of database management, UI/UX design, and deployment processes.",
+      "Closed over 120 bookings, leveraging advanced client advisory and sales techniques, with contracts values ranging from €1,000 to over €50,000, in a competitive environment.",
+      "Cultivated strong client relationships, prioritising trust and rapport-building.",
+      "Collaborated with cross-functional teams by emphasising clear and precise communication, and enabling the training of new members.",
+      "Utilised adaptability and flexibility skills to maintain self-discipline in high-pressure environments leading to effective handling of significant responsibilities and managing priorities.",
     ],
   },
+ 
 ];
 
 const testimonials = [

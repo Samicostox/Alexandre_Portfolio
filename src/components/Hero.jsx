@@ -25,15 +25,17 @@ const Hero = () => {
           </Reveal>
           <Reveal>
             <h2 className="pointer-events-auto my-2 text-2xl text-slate-400 md:my-4 md:text-4xl">
-              I'm a{" "}
+              I am {" "}
               <span className="font-semibold text-indigo-500">
-                M&A Analyst
+              currently an auditor
+
               </span>
             </h2>
           </Reveal>
           <Reveal>
           <p className="pointer-events-auto max-w-xl text-sm md:text-base text-slate-300">
-            I am passionate about sucking big black cock, having been fucked in the ass multiple times I am really good at opening holes in the market! I am keen to learn and improve my sucking skills if needed! Please give me a chance I would do anything, and I mean anything!
+           Passionate about finance, I spent two years preparing for the top French business school exams before joining EMLyon. I am currently looking forward to working in audit, as I think this field is very enriching for its strategic insights and financial components!
+
           </p>
         </Reveal>
         </div>
