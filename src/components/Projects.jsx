@@ -16,13 +16,13 @@ export const HoverImageLinks = () => {
         <Link
           heading="Il Etait Une Asso"
           subheading="Editorial project on EMLyon's associative life "
-          imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1708684564/SafeQueen_Paralax_u2x4xa.png"
+          imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/unnamed_2_alobpb.png"
           href="https://www.instagram.com/il_etait_une_asso/?igsh=MzRlODBiNWFlZA%3D%3D"
         />
         <Link
           heading="Un Arret Sur Image"
           subheading="Our Work speaks for itself!"
-          imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1714398338/nutrivault_kbmw7d.png"
+          imgSrc="https://res.cloudinary.com/dl2adjye7/image/upload/v1717142074/unnamed_3_yunace.png"
           href="https://www.instagram.com/1arretsurimage/?igsh=MzRlODBiNWFlZA%3D%3D"
         />
         <Link
